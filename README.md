@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Maharajan-02
-- 👀 I’m interested in Software development
-- 🌱 I’m currently working on Onward Technologies
 - 💞️ I’m looking to collaborate on Java and Spring projetcs
 - 📫 How to reach me rajascientist98@gmail.com
 
